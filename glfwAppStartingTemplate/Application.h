@@ -3,8 +3,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "includes\glad\glad.h"
-#include "includes\GLFW\glfw3.h"
+#include "includes/glad/glad.h"
+#include "includes/GLFW/glfw3.h"
 
 // window default settings
 struct WindowStatus
